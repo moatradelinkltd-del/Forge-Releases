@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "notes": "Forge 2.3.0: project-aware Chat and Research, corrected version branding, safer project context selection, and clearer update messaging.",
-  "sha256": "9628bd1927152d1e15897cf77c388c6d3f99b9fa71cdc7f502dc2bf95f0b3359",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.3.0/Forge-2.3.0.zip"
+  "version": "2.3.1",
+  "sha256": "8fc190fa531e9129a6fc5f694480a3aee0fd7e9b1044a34ece2da5f779fb7b6c",
+  "notes": "Forge 2.3.1: branded Forge app icon embedded in Forge.exe and an automatic self-healing Windows Desktop shortcut.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.3.1/Forge-2.3.1.zip"
 }
