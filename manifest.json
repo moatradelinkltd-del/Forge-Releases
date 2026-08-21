@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "sha256": "8fc190fa531e9129a6fc5f694480a3aee0fd7e9b1044a34ece2da5f779fb7b6c",
-  "notes": "Forge 2.3.1: branded Forge app icon embedded in Forge.exe and an automatic self-healing Windows Desktop shortcut.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.3.1/Forge-2.3.1.zip"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.3.2/Forge-2.3.2.zip",
+  "notes": "Forge 2.3.2: subtle local UI sound effects for startup, send, completion, save, updates, and errors, with a persistent Settings toggle.",
+  "version": "2.3.2",
+  "sha256": "09ad82333f812d31dbff6a19eac6d08598ce0364266ec13091e6710b5be4ba4c"
 }
