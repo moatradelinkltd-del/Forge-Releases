@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.3.2/Forge-2.3.2.zip",
-  "notes": "Forge 2.3.2: subtle local UI sound effects for startup, send, completion, save, updates, and errors, with a persistent Settings toggle.",
-  "version": "2.3.2",
-  "sha256": "09ad82333f812d31dbff6a19eac6d08598ce0364266ec13091e6710b5be4ba4c"
+  "sha256": "937c1ef48da3a656895d68b74ef156c33caee80cd9785efef7b4d4e6366ab8a4",
+  "version": "2.4.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.4.0/Forge-2.4.0.zip",
+  "notes": "Forge 2.4.0: Windows installer for easy sharing, Start Menu and Desktop shortcuts, installed-app registration and uninstall support, while preserving self-updates, project-aware AI features, icon branding, and sound effects."
 }
