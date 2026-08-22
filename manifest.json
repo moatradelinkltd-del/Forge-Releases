@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.5.0/Forge-2.5.0.zip",
-  "version": "2.5.0",
-  "sha256": "9f30095d0943d2b80fc2ec778fa06dd04d4c1f31e20871c5669adfe1f3bb9540",
-  "notes": "Forge 2.5.0: Project Intelligence with query-aware project context, pinned context files, context viewer, Ctrl+Shift+F project search, Ctrl+Shift+P command palette, AI Edit diff review, automatic local backups, and rollback, while preserving the installer, updater, icon, and sound effects."
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.6.0/Forge-2.6.0.zip",
+  "sha256": "9d3902ed22a2cc838b6536049aa4fc4a2427ab7ed1a21b0d9886b86223c1c743",
+  "notes": "Forge 2.6.0: Developer Tools with safe project Build/Test commands, live terminal output, process stopping, detected or custom build/test presets, build-error highlighting, and Ask Forge About Last Build Error, while preserving Project Intelligence, safe AI edits, backups, rollback, installer, updater, icon, and sound effects.",
+  "version": "2.6.0"
 }
