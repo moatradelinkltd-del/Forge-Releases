@@ -1,6 +1,6 @@
 {
-  "sha256": "937c1ef48da3a656895d68b74ef156c33caee80cd9785efef7b4d4e6366ab8a4",
-  "version": "2.4.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.4.0/Forge-2.4.0.zip",
-  "notes": "Forge 2.4.0: Windows installer for easy sharing, Start Menu and Desktop shortcuts, installed-app registration and uninstall support, while preserving self-updates, project-aware AI features, icon branding, and sound effects."
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.5.0/Forge-2.5.0.zip",
+  "version": "2.5.0",
+  "sha256": "9f30095d0943d2b80fc2ec778fa06dd04d4c1f31e20871c5669adfe1f3bb9540",
+  "notes": "Forge 2.5.0: Project Intelligence with query-aware project context, pinned context files, context viewer, Ctrl+Shift+F project search, Ctrl+Shift+P command palette, AI Edit diff review, automatic local backups, and rollback, while preserving the installer, updater, icon, and sound effects."
 }
