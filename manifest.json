@@ -1,6 +1,6 @@
 {
-  "sha256": "0d30dce70e47a35839610190b553e32ce6aa40421d2a0b22f9d1c06648852d7b",
-  "version": "3.1.0",
-  "notes": "Forge 3.1.0: Project Index & Navigation with persistent local incremental indexing, Git-aware .gitignore handling, .forgeignore exclusions, indexed symbol and identifier search, Go to Definition, Find References, and background refresh, while preserving transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.1.0/Forge-3.1.0.zip"
+  "notes": "Forge 3.1.1: Updater Reliability with no-cache manifest requests and per-request cache-busting to prevent delayed update detection from stale GitHub raw responses, while preserving Project Index & Navigation, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
+  "version": "3.1.1",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.1.1/Forge-3.1.1.zip",
+  "sha256": "ae10cb15b7d3a829f74709f26a59d7fda9242c164d87304fa5ee660b470d9091"
 }
