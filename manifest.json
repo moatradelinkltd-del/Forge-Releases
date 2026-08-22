@@ -1,6 +1,6 @@
 {
-  "sha256": "62825f5a633657f01aa8d71aa8f1ebf156daada5d77f1aad2a796535a05d7c27",
-  "version": "2.9.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.9.0/Forge-2.9.0.zip",
-  "notes": "Forge 2.9.0: Safety & Reliability with Windows DPAPI-protected API-key storage, plaintext-key migration, stronger AI-context secret filtering, optional context review, unsaved-edit recovery and protection, bounded backup retention, and secret-safe diagnostics export, while preserving Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, safe AI edits, installer, updater, icon, and sound effects."
+  "version": "3.0.0",
+  "sha256": "dbecf24080aeab80b13012af79e909c214a73baa11ecc071fe09e93f576e4c75",
+  "notes": "Forge 3.0.0: transactional multi-file AI editing with combined per-file review, selective apply, project-relative text-file safety checks, complete-original validation, race detection, backups, transactional rollback, and safe new-file creation, while preserving Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, single-file AI edits, installer, updater, icon, and sound effects.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.0.0/Forge-3.0.0.zip"
 }
