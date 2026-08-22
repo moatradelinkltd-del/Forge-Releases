@@ -1,6 +1,6 @@
 {
-  "sha256": "2a8b335d3d7fc77a9659ee848c4981832117d1242627ee2d0d0e64d65f8a72e4",
-  "notes": "Forge 2.7.0: Team Workspace with repo-local shared instructions, handoff notes, Build/Test presets, shared AI context files, and read-only Git branch/status visibility, while preserving Developer Tools, Project Intelligence, safe AI edits, backups, rollback, installer, updater, icon, and sound effects.",
-  "version": "2.7.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.7.0/Forge-2.7.0.zip"
+  "sha256": "64be6c766f2a47e8823c185de47df4613defab8a09f5fa641a9c16b812020fa5",
+  "notes": "Forge 2.8.0: Diagnostics & History with recent projects, local project notes, Build/Test run history, project health checks, and an indexed Backup Browser with safe restore, while preserving Team Workspace, Developer Tools, Project Intelligence, safe AI edits, installer, updater, icon, and sound effects.",
+  "version": "2.8.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v2.8.0/Forge-2.8.0.zip"
 }
