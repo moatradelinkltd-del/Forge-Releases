@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "sha256": "dbecf24080aeab80b13012af79e909c214a73baa11ecc071fe09e93f576e4c75",
-  "notes": "Forge 3.0.0: transactional multi-file AI editing with combined per-file review, selective apply, project-relative text-file safety checks, complete-original validation, race detection, backups, transactional rollback, and safe new-file creation, while preserving Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, single-file AI edits, installer, updater, icon, and sound effects.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.0.0/Forge-3.0.0.zip"
+  "sha256": "0d30dce70e47a35839610190b553e32ce6aa40421d2a0b22f9d1c06648852d7b",
+  "version": "3.1.0",
+  "notes": "Forge 3.1.0: Project Index & Navigation with persistent local incremental indexing, Git-aware .gitignore handling, .forgeignore exclusions, indexed symbol and identifier search, Go to Definition, Find References, and background refresh, while preserving transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.1.0/Forge-3.1.0.zip"
 }
