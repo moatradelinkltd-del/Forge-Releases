@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.7.0/Forge-3.7.0.zip",
-  "version": "3.7.0",
-  "notes": "Forge 3.7.0: Visual Design Rendering with a Design Image Studio, prompt-driven image generation, in-app previews, configurable model/size/quality, design-brief reuse, and explicit PNG saving while generated image bytes remain unsaved in memory by default, while preserving the 3.6.1 startup fix, UI Refinement, Forge Midnight, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "sha256": "ed82db98c73c4a34f309f78518671ac265c48da862995eeb80c8d1c93dd674d6"
+  "notes": "Forge 3.8.0: Visual Editing & Reference Images with source-image editing, up to three optional references, Original/Edited review, explicit saving, guarded Replace Original with source-change detection and local backup, while preserving Visual Design Rendering, the 3.6.1 startup fix, UI Refinement, Forge Midnight, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "version": "3.8.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.8.0/Forge-3.8.0.zip",
+  "sha256": "f5f5d21ee6980c27221c2757a7cae661838729bf8eceb56bf3904e9700d401e7"
 }
