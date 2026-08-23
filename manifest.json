@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 3.9.1: Console Home Realism Pass with eased card motion, depth-scaled workspace tiles, layered lighting, glow/shadow focus treatment, smoothed camera drift, twinkling multi-depth particles, live clock/project chrome, cinematic-effects control, and refined original generated Home/Navigate/Launch sounds, while preserving reduced motion, particle controls, Visual Editing & Reference Images, Visual Design Rendering, the 3.8.1 Design layout fix, the 3.6.1 startup fix, UI Refinement, Forge Midnight, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "version": "3.9.1",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.1/Forge-3.9.1.zip",
-  "sha256": "00ccbb5c1ca6c31e4906d8cd1fe17c94b1fcf118435a4c7702aea06e218e003d"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.2/Forge-3.9.2.zip",
+  "version": "3.9.2",
+  "sha256": "d7057c6b0a554ab2318b42ed9483dc16976166f9cc1bdeaec7b231a48f08549e",
+  "notes": "Forge 3.9.2: Cinematic Console Realism with spring-based focus and camera physics, perspective-scaled workspace tiles, animated atmospheric ribbons, lens glow, hover focus, star/dust/spark particles, adaptive Auto/Performance/Balanced/Ultra detail, and a live visual-quality HUD, while preserving reduced motion, particle and cinematic controls, original generated console sounds, Visual Editing & Reference Images, Visual Design Rendering, the 3.8.1 Design layout fix, the 3.6.1 startup fix, UI Refinement, Forge Midnight, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds."
 }
