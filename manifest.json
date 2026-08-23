@@ -1,6 +1,6 @@
 {
-  "version": "3.4.0",
-  "notes": "Forge 3.4.0: OS Development Tools with kernel/bootloader/linker/assembly/EFI detection, toolchain and QEMU discovery, explicit safe QEMU presets, artifact metadata/signature inspection, and bounded read-only hex previews, while preserving Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.4.0/Forge-3.4.0.zip",
-  "sha256": "344191a3e9a1bd1d5cb53e863367803b7f1d646effd7253575754be32d9e3f75"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.5.0/Forge-3.5.0.zip",
+  "version": "3.5.0",
+  "sha256": "ebcc481995706196b43039300df02e9a7704c853d8cbd6fec78340554d4d3a28",
+  "notes": "Forge 3.5.0: UI & Sound Refresh with the Forge Midnight visual system, modernized controls/focus styling, a dedicated UI & Sound panel, locally generated Quiet/Normal/Loud audio tiers, category controls, previews, and calmer non-interrupting routine cues, while preserving OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects."
 }
