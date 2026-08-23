@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 3.8.0: Visual Editing & Reference Images with source-image editing, up to three optional references, Original/Edited review, explicit saving, guarded Replace Original with source-change detection and local backup, while preserving Visual Design Rendering, the 3.6.1 startup fix, UI Refinement, Forge Midnight, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "version": "3.8.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.8.0/Forge-3.8.0.zip",
-  "sha256": "f5f5d21ee6980c27221c2757a7cae661838729bf8eceb56bf3904e9700d401e7"
+  "version": "3.8.1",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.8.1/Forge-3.8.1.zip",
+  "notes": "Forge 3.8.1: Design Layout Hotfix fixing the 3.8.0 startup TclError in Image Studio edit-card placement, with direct Tk hierarchy validation in CI, while preserving Visual Editing & Reference Images, Visual Design Rendering, the 3.6.1 startup fix, UI Refinement, Forge Midnight, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "sha256": "fa69a52c39bfb7bfcdcd717da036ddbd0456db97dacc678c7f0c7337e8d1b495"
 }
