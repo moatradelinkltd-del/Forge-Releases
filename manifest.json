@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.5.0/Forge-3.5.0.zip",
-  "version": "3.5.0",
-  "sha256": "ebcc481995706196b43039300df02e9a7704c853d8cbd6fec78340554d4d3a28",
-  "notes": "Forge 3.5.0: UI & Sound Refresh with the Forge Midnight visual system, modernized controls/focus styling, a dedicated UI & Sound panel, locally generated Quiet/Normal/Loud audio tiers, category controls, previews, and calmer non-interrupting routine cues, while preserving OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects."
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.6.0/Forge-3.6.0.zip",
+  "notes": "Forge 3.6.0: UI Refinement with persistent interface density, adjustable editor text size, adjustable sidebar width, active-view feedback, refined workspace chrome, and Focus Mode, while preserving the Forge Midnight UI, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "sha256": "4ff53cea20f33061aff4e5425166d2a53304e473f195766b43652199d3176f4f",
+  "version": "3.6.0"
 }
