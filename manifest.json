@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.6.0/Forge-3.6.0.zip",
-  "notes": "Forge 3.6.0: UI Refinement with persistent interface density, adjustable editor text size, adjustable sidebar width, active-view feedback, refined workspace chrome, and Focus Mode, while preserving the Forge Midnight UI, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "sha256": "4ff53cea20f33061aff4e5425166d2a53304e473f195766b43652199d3176f4f",
-  "version": "3.6.0"
+  "version": "3.6.1",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.6.1/Forge-3.6.1.zip",
+  "notes": "Forge 3.6.1: Startup Hotfix fixing the invalid Tk Focus Mode key binding that could prevent 3.6.0 from launching, with explicit shortcut validation in CI, while preserving UI Refinement, Forge Midnight, the refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "sha256": "838212b895047922697ef20b25802c3862107afa43c459a8f4cbe59828d99f7c"
 }
