@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 3.1.1: Updater Reliability with no-cache manifest requests and per-request cache-busting to prevent delayed update detection from stale GitHub raw responses, while preserving Project Index & Navigation, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
-  "version": "3.1.1",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.1.1/Forge-3.1.1.zip",
-  "sha256": "ae10cb15b7d3a829f74709f26a59d7fda9242c164d87304fa5ee660b470d9091"
+  "notes": "Forge 3.2.0: AI Build/Fix with parsed build/test diagnostics, reviewable transactional fixes, explicit one-time verification rerun, before/after error counts, no automatic fix loops, and credential-like terminal-line redaction, while preserving Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
+  "sha256": "42c661863b848fb2dab1844b891944315c935e53d1e0d5a858108202f72282a9",
+  "version": "3.2.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.2.0/Forge-3.2.0.zip"
 }
