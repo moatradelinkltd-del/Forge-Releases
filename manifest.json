@@ -1,6 +1,6 @@
 {
-  "version": "3.8.1",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.8.1/Forge-3.8.1.zip",
-  "notes": "Forge 3.8.1: Design Layout Hotfix fixing the 3.8.0 startup TclError in Image Studio edit-card placement, with direct Tk hierarchy validation in CI, while preserving Visual Editing & Reference Images, Visual Design Rendering, the 3.6.1 startup fix, UI Refinement, Forge Midnight, refreshed sound system, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "sha256": "fa69a52c39bfb7bfcdcd717da036ddbd0456db97dacc678c7f0c7337e8d1b495"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.0/Forge-3.9.0.zip",
+  "sha256": "a4b8a70851fe07208c790cd4718fbd9de86affd13ec977ae5c68ebd6c47ef264",
+  "version": "3.9.0",
+  "notes": "Forge 3.9.0: Console Home UI with an original console-inspired Home dashboard, horizontal workspace cards, animated particle/parallax motion, reduced-motion and particle-level controls, and locally generated Home/Navigate/Launch sound cues, while preserving Visual Editing & Reference Images, Visual Design Rendering, the 3.8.1 Design layout fix, the 3.6.1 startup fix, UI Refinement, Forge Midnight, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds."
 }
