@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 3.3.0: Task Workspace with local per-project tasks, status/priority/notes, linked project files, active-task AI context focus with secret checks, and review-before-send Chat handoff, while preserving AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
-  "version": "3.3.0",
-  "sha256": "1d3cf591832760370ed0a84d129374c097e79ce3ec2cfb5cc8c57a28395ecd70",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.3.0/Forge-3.3.0.zip"
+  "version": "3.4.0",
+  "notes": "Forge 3.4.0: OS Development Tools with kernel/bootloader/linker/assembly/EFI detection, toolchain and QEMU discovery, explicit safe QEMU presets, artifact metadata/signature inspection, and bounded read-only hex previews, while preserving Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sound effects.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.4.0/Forge-3.4.0.zip",
+  "sha256": "344191a3e9a1bd1d5cb53e863367803b7f1d646effd7253575754be32d9e3f75"
 }
