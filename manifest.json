@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.0/Forge-3.9.0.zip",
-  "sha256": "a4b8a70851fe07208c790cd4718fbd9de86affd13ec977ae5c68ebd6c47ef264",
-  "version": "3.9.0",
-  "notes": "Forge 3.9.0: Console Home UI with an original console-inspired Home dashboard, horizontal workspace cards, animated particle/parallax motion, reduced-motion and particle-level controls, and locally generated Home/Navigate/Launch sound cues, while preserving Visual Editing & Reference Images, Visual Design Rendering, the 3.8.1 Design layout fix, the 3.6.1 startup fix, UI Refinement, Forge Midnight, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds."
+  "notes": "Forge 3.9.1: Console Home Realism Pass with eased card motion, depth-scaled workspace tiles, layered lighting, glow/shadow focus treatment, smoothed camera drift, twinkling multi-depth particles, live clock/project chrome, cinematic-effects control, and refined original generated Home/Navigate/Launch sounds, while preserving reduced motion, particle controls, Visual Editing & Reference Images, Visual Design Rendering, the 3.8.1 Design layout fix, the 3.6.1 startup fix, UI Refinement, Forge Midnight, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "version": "3.9.1",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.1/Forge-3.9.1.zip",
+  "sha256": "00ccbb5c1ca6c31e4906d8cd1fe17c94b1fcf118435a4c7702aea06e218e003d"
 }
