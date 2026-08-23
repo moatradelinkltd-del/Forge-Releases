@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 3.9.3: Compact Navigation & Reliability with a bounded Home nav strip, notebook-tab identity as the authoritative selection state, synchronized external tab changes, stale-state recovery, debounced hover focus, predictable arrow-key wrapping, and exact-tab opening, while preserving the 3.9.2 cinematic renderer, adaptive detail, reduced motion, particle/cinematic controls, original generated console sounds, Visual Editing & Reference Images, Visual Design Rendering, the 3.8.1 Design layout fix, the 3.6.1 startup fix, UI Refinement, Forge Midnight, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater cache reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "version": "3.9.3",
-  "sha256": "6a5299a3f2fa5698898ccd3140e618b8cddce8f4f535e3bb2626005c669c56a6",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.3/Forge-3.9.3.zip"
+  "sha256": "8972da247fb3dc4780cf6e250bf35092fde4ee1d18b5fc5d4d86aa58701f2708",
+  "version": "3.9.4",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.4/Forge-3.9.4.zip",
+  "notes": "Forge 3.9.4: Single Navigation Surface removes the duplicated Workspace toolbar and native notebook tab row from the visible UI while preserving notebook identity, selection events, Ctrl+Shift+H Home return, compact Home navigation, the 3.9.3 reliability model, the 3.9.2 cinematic renderer, adaptive detail, reduced motion, particle/cinematic controls, original generated console sounds, Visual Editing & Reference Images, Visual Design Rendering, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds."
 }
