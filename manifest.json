@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.4.2/Forge-4.4.2.zip",
-  "version": "4.4.2",
-  "sha256": "c84f6a9e08c81956640e87602ff3a27cfbd7c1fd06e2de46e1aa1b73c37cae17",
-  "notes": "Forge 4.4.2: runtime version-propagation hotfix. Older layered installers can no longer overwrite the active release version, fixing stale Forge 4.0 and malformed repeated version strings while retaining Code Intelligence and existing release/safety checks."
+  "notes": "Forge 4.5.0: Agent Workspace with live task plan, files, current action, terminal/build output, applied changes, tests, and final review state. It integrates with existing Build/Fix and transactional safety flows while retaining Code Intelligence and the 4.4.2 runtime-version propagation fix.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.5.0/Forge-4.5.0.zip",
+  "sha256": "19aecf0c25d5e30e8f0e78f429ce7673fa262e08722216bfaa9118c885c1ad84",
+  "version": "4.5.0"
 }
