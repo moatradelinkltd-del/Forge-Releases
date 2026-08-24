@@ -1,6 +1,6 @@
 {
-  "sha256": "8972da247fb3dc4780cf6e250bf35092fde4ee1d18b5fc5d4d86aa58701f2708",
-  "version": "3.9.4",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.4/Forge-3.9.4.zip",
-  "notes": "Forge 3.9.4: Single Navigation Surface removes the duplicated Workspace toolbar and native notebook tab row from the visible UI while preserving notebook identity, selection events, Ctrl+Shift+H Home return, compact Home navigation, the 3.9.3 reliability model, the 3.9.2 cinematic renderer, adaptive detail, reduced motion, particle/cinematic controls, original generated console sounds, Visual Editing & Reference Images, Visual Design Rendering, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds."
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.5/Forge-3.9.5.zip",
+  "notes": "Forge 3.9.5: Final Navigation Cleanup removes the remaining native notebook tab row by clearing the ttk Notebook Tab substyle layout and hitbox while preserving notebook selection/events, Ctrl+Shift+H Home return, compact Home navigation, the hidden Workspace toolbar, the 3.9.3 reliability model, the 3.9.2 cinematic renderer, adaptive detail, reduced motion, particle/cinematic controls, original generated console sounds, Visual Editing & Reference Images, Visual Design Rendering, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "sha256": "ef7f6c71ab35cba54c6a90f3d1701c4568b3f33fe607c6a83c52f363f039513a",
+  "version": "3.9.5"
 }
