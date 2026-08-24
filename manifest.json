@@ -1,6 +1,6 @@
 {
-  "version": "4.7.0",
-  "notes": "Forge 4.7.0: AFIWA OS Development Center with kernel/full builds, reviewed QEMU boot/restart, serial capture, boot-failure and panic parsing, AI Diagnose Boot, successful-boot comparison, memory-map viewer, driver/interrupt checklist, and boot-time measurements. Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.7.0/Forge-4.7.0.zip",
-  "sha256": "1fa9d2e1336476d3ad46cc8757b26d50267c1f4d4261ad2c80db2a5ecbc76ec7"
+  "notes": "Forge 4.8.0: Visual Git with branch graph, staged/unstaged state, side-by-side diffs, history, stash, branch create/switch, conflict resolution, AI commit summaries, and PR preparation. Destructive working-tree replacement is explicitly confirmed and AI summaries do not auto-commit. AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included.",
+  "version": "4.8.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.8.0/Forge-4.8.0.zip",
+  "sha256": "0bdb5564236177cc0674f5598f63d9a556f31debbf4f924fc44dd7d66be5d25c"
 }
