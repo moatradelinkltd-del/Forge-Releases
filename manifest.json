@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 4.6.0: Team Command Center with shared Forge-workspace presence, work states, project/workspace/task and Git/build context, recent activity, handoff requests, and teammate-change navigation. Presence is based on shared .forge heartbeat records rather than cloud account status. Agent Workspace and Code Intelligence remain included.",
-  "sha256": "2a252fa04692d21f529278acfb702b9c8b33d6c287a98b95ad0bf4820f593020",
-  "version": "4.6.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.6.0/Forge-4.6.0.zip"
+  "version": "4.7.0",
+  "notes": "Forge 4.7.0: AFIWA OS Development Center with kernel/full builds, reviewed QEMU boot/restart, serial capture, boot-failure and panic parsing, AI Diagnose Boot, successful-boot comparison, memory-map viewer, driver/interrupt checklist, and boot-time measurements. Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.7.0/Forge-4.7.0.zip",
+  "sha256": "1fa9d2e1336476d3ad46cc8757b26d50267c1f4d4261ad2c80db2a5ecbc76ec7"
 }
