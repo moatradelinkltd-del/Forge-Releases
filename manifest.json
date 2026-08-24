@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.4.1/Forge-4.4.1.zip",
-  "sha256": "b65519a855c5f6676fedc41cafb6712770b4105988b067beeaa39e91aa25aaf0",
-  "version": "4.4.1",
-  "notes": "Forge 4.4.1: display-version hotfix for stale Forge 4.0 labels in inherited workspace surfaces. The active runtime version now drives the guided tour, Settings navigation strip, window title, and presentation scrub while retaining Forge 4.4 Code Intelligence and all existing release/safety checks."
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.4.2/Forge-4.4.2.zip",
+  "version": "4.4.2",
+  "sha256": "c84f6a9e08c81956640e87602ff3a27cfbd7c1fd06e2de46e1aa1b73c37cae17",
+  "notes": "Forge 4.4.2: runtime version-propagation hotfix. Older layered installers can no longer overwrite the active release version, fixing stale Forge 4.0 and malformed repeated version strings while retaining Code Intelligence and existing release/safety checks."
 }
