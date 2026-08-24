@@ -1,6 +1,6 @@
 {
-  "version": "4.0.1",
-  "notes": "Forge 4.0.1: startup hotfix fixing the Console Home renderer recursion that could produce maximum recursion depth exceeded during launch. Compact navigation now delegates to the captured advanced renderer, with a real Tk ForgeApp/Home construction regression added to CI. Forge 4.0 AFIWA startup/audio, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, cinematic rendering engine, updater, installer, and prior reliability features remain included.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.0.1/Forge-4.0.1.zip",
-  "sha256": "d9960e4c1c0c9507016379e1e9e7bb354dbd6aaa364d8b2f74b8c6f6ad5176fb"
+  "sha256": "0f25ac77cabe786ffc88f994552d8741ba03d00a27234db8d9e7f77608ffd052",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.1.0/Forge-4.1.0.zip",
+  "notes": "Forge 4.1.0: AFIWA Immersive Home with a 10-second staged startup sequence, Home music from the bundled supplied AFIWA track cue that fades in on Home and fades out/pauses when leaving Home, deeper curl/vortex particle physics, stronger pointer distortion, parallax, trails, halos, filament warping, horizon bloom and inertial camera motion, while preserving the 4.0.1 recursion hotfix, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, updater, installer, and prior reliability features.",
+  "version": "4.1.0"
 }
