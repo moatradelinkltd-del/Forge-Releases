@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.9.5/Forge-3.9.5.zip",
-  "notes": "Forge 3.9.5: Final Navigation Cleanup removes the remaining native notebook tab row by clearing the ttk Notebook Tab substyle layout and hitbox while preserving notebook selection/events, Ctrl+Shift+H Home return, compact Home navigation, the hidden Workspace toolbar, the 3.9.3 reliability model, the 3.9.2 cinematic renderer, adaptive detail, reduced motion, particle/cinematic controls, original generated console sounds, Visual Editing & Reference Images, Visual Design Rendering, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "sha256": "ef7f6c71ab35cba54c6a90f3d1701c4568b3f33fe607c6a83c52f363f039513a",
-  "version": "3.9.5"
+  "notes": "Forge 3.10.0: AFIWA Cinematic Rendering Engine with turbulence/curl particle physics, depth-aware distortion, particle velocity and trails, dust/star/spark/filament classes, inertial spring camera motion, richer atmospheric ribbons and lens glow, adaptive Performance/Balanced/Ultra detail, and an original generated AFIWA Home/Navigate/Launch sound palette, while preserving the 3.9.5 hidden notebook tabs, compact reliable navigation, reduced motion, Visual Editing & Reference Images, Visual Design Rendering, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v3.10.0/Forge-3.10.0.zip",
+  "version": "3.10.0",
+  "sha256": "f0abd3fd9579ebf11c16b37b58fdd2c66bcb94648a54ec51f7a4fada3f51804b"
 }
