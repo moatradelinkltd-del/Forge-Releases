@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 4.0.0: AFIWA x Forge Workspace Experience with animated branded startup and bundled supplied startup cue, an eight-step restartable new-user walkthrough, custom animated AFIWA popup windows with two-action support, a Settings-only compact workspace navigation strip, truthful shared-folder Team presence and activity, and a VS Code-inspired Code editor shell with Explorer, activity rail, breadcrumbs, line-number gutter and status bar, while preserving the 3.10 AFIWA cinematic rendering engine and sounds, 3.9.5 hidden native notebook tabs, compact reliable navigation, reduced motion, Visual Editing & Reference Images, Visual Design Rendering, OS Development Tools, Task Workspace, AI Build/Fix, Project Index & Navigation, updater reliability, transactional multi-file AI edits, Safety & Reliability, Diagnostics & History, Team Workspace files, Developer Tools, Project Intelligence, installer, updater, icon, and sounds.",
-  "version": "4.0.0",
-  "sha256": "4455eea5b3f1cefbd18234913ef130efbf6223b76c4fd5b264139b1ccf6bb7f2",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.0.0/Forge-4.0.0.zip"
+  "version": "4.0.1",
+  "notes": "Forge 4.0.1: startup hotfix fixing the Console Home renderer recursion that could produce maximum recursion depth exceeded during launch. Compact navigation now delegates to the captured advanced renderer, with a real Tk ForgeApp/Home construction regression added to CI. Forge 4.0 AFIWA startup/audio, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, cinematic rendering engine, updater, installer, and prior reliability features remain included.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.0.1/Forge-4.0.1.zip",
+  "sha256": "d9960e4c1c0c9507016379e1e9e7bb354dbd6aaa364d8b2f74b8c6f6ad5176fb"
 }
