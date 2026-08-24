@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.2.0/Forge-4.2.0.zip",
-  "version": "4.2.0",
-  "notes": "Forge 4.2.0: Neon Audio Experience with the complete supplied Neon Orbit Home track, smooth Home fade-in and fade-out/pause with resume on return, and only the approved first ten seconds of Neon Horizon during the ten-second startup animation. Startup and Home tracks are explicitly handed off without overlap. Forge 4.1 Immersive Home rendering/physics, the 4.0.1 recursion hotfix, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, updater, installer, and prior reliability features remain included.",
-  "sha256": "71543d054b43b68cf637c364c3f36474c025d46ae6b4006c302083e616ff2dae"
+  "sha256": "42fcdcf0da12bd1e5dafb4594722cc5f31b13797240141e5330d41d088bcd11a",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.3.0/Forge-4.3.0.zip",
+  "version": "4.3.0",
+  "notes": "Forge 4.3.0: Build & Release Engine with one final Forge build, consolidated named-stage preflight validation, pip caching, clearer failure output, packaged asset/hash verification, and a Release Preflight report inside Forge Developer Tools. Neon Orbit Home audio, ten-second Neon Horizon startup, Immersive Home rendering/physics, recursion protection, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, updater, installer, and prior reliability features remain included."
 }
