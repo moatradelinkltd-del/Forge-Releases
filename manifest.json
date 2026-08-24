@@ -1,6 +1,6 @@
 {
-  "sha256": "0f25ac77cabe786ffc88f994552d8741ba03d00a27234db8d9e7f77608ffd052",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.1.0/Forge-4.1.0.zip",
-  "notes": "Forge 4.1.0: AFIWA Immersive Home with a 10-second staged startup sequence, Home music from the bundled supplied AFIWA track cue that fades in on Home and fades out/pauses when leaving Home, deeper curl/vortex particle physics, stronger pointer distortion, parallax, trails, halos, filament warping, horizon bloom and inertial camera motion, while preserving the 4.0.1 recursion hotfix, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, updater, installer, and prior reliability features.",
-  "version": "4.1.0"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.2.0/Forge-4.2.0.zip",
+  "version": "4.2.0",
+  "notes": "Forge 4.2.0: Neon Audio Experience with the complete supplied Neon Orbit Home track, smooth Home fade-in and fade-out/pause with resume on return, and only the approved first ten seconds of Neon Horizon during the ten-second startup animation. Startup and Home tracks are explicitly handed off without overlap. Forge 4.1 Immersive Home rendering/physics, the 4.0.1 recursion hotfix, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, updater, installer, and prior reliability features remain included.",
+  "sha256": "71543d054b43b68cf637c364c3f36474c025d46ae6b4006c302083e616ff2dae"
 }
