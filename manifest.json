@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 4.4.0: Code Intelligence with bounded workspace symbol indexing, Workspace Symbols, F12 definition lookup, Shift+F12 reference search, and local Python/JSON diagnostics. The 4.4 single-pass release engine, named-stage failure output, pip caching, packaged asset/hash verification, Release Preflight, Neon audio, Immersive Home, updater, installer, and prior reliability protections remain included.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.4.0/Forge-4.4.0.zip",
-  "sha256": "78e46d1acc7e6bc540b1dfba17c99ded9c3238054bf45828341cc1c9a6b471d7",
-  "version": "4.4.0"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.4.1/Forge-4.4.1.zip",
+  "sha256": "b65519a855c5f6676fedc41cafb6712770b4105988b067beeaa39e91aa25aaf0",
+  "version": "4.4.1",
+  "notes": "Forge 4.4.1: display-version hotfix for stale Forge 4.0 labels in inherited workspace surfaces. The active runtime version now drives the guided tour, Settings navigation strip, window title, and presentation scrub while retaining Forge 4.4 Code Intelligence and all existing release/safety checks."
 }
