@@ -1,6 +1,6 @@
 {
-  "sha256": "42fcdcf0da12bd1e5dafb4594722cc5f31b13797240141e5330d41d088bcd11a",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.3.0/Forge-4.3.0.zip",
-  "version": "4.3.0",
-  "notes": "Forge 4.3.0: Build & Release Engine with one final Forge build, consolidated named-stage preflight validation, pip caching, clearer failure output, packaged asset/hash verification, and a Release Preflight report inside Forge Developer Tools. Neon Orbit Home audio, ten-second Neon Horizon startup, Immersive Home rendering/physics, recursion protection, onboarding, custom popups, Settings strip, Team presence, VS Code-inspired Code workspace, updater, installer, and prior reliability features remain included."
+  "notes": "Forge 4.4.0: Code Intelligence with bounded workspace symbol indexing, Workspace Symbols, F12 definition lookup, Shift+F12 reference search, and local Python/JSON diagnostics. The 4.4 single-pass release engine, named-stage failure output, pip caching, packaged asset/hash verification, Release Preflight, Neon audio, Immersive Home, updater, installer, and prior reliability protections remain included.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.4.0/Forge-4.4.0.zip",
+  "sha256": "78e46d1acc7e6bc540b1dfba17c99ded9c3238054bf45828341cc1c9a6b471d7",
+  "version": "4.4.0"
 }
