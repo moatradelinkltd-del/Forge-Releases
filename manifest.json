@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 4.5.0: Agent Workspace with live task plan, files, current action, terminal/build output, applied changes, tests, and final review state. It integrates with existing Build/Fix and transactional safety flows while retaining Code Intelligence and the 4.4.2 runtime-version propagation fix.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.5.0/Forge-4.5.0.zip",
-  "sha256": "19aecf0c25d5e30e8f0e78f429ce7673fa262e08722216bfaa9118c885c1ad84",
-  "version": "4.5.0"
+  "notes": "Forge 4.6.0: Team Command Center with shared Forge-workspace presence, work states, project/workspace/task and Git/build context, recent activity, handoff requests, and teammate-change navigation. Presence is based on shared .forge heartbeat records rather than cloud account status. Agent Workspace and Code Intelligence remain included.",
+  "sha256": "2a252fa04692d21f529278acfb702b9c8b33d6c287a98b95ad0bf4820f593020",
+  "version": "4.6.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.6.0/Forge-4.6.0.zip"
 }
