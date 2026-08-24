@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v4.9.0/Forge-4.9.0.zip",
-  "version": "4.9.0",
-  "sha256": "3ef5bf670c369aef2de061c2ddb95d173e6472a74d575d307b4adb50b326cbb8",
-  "notes": "Forge 4.9.0: Project Memory with persistent per-project architecture, important files, conventions, build/test commands, known issues, decisions, components, and milestones. Memory stays in Forge app data by default; bounded AI context inclusion is visible, per-project, and opt-in. Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included."
+  "version": "5.0.0",
+  "sha256": "2c491540f0d1ab8c491728404ca3ce347b1724302be34702e5bfb9e7ace7e2a2",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.0/Forge-5.0.0.zip",
+  "notes": "Forge 5.0.0: Multi-Agent AFIWA Developer System with Lead coordination across Code, Build, Debug, Research, Test, and OS specialists, shared project/runtime context, collected specialist results, and an explicit locked final-review gate before modification preparation. Specialists analyze/propose only; existing transactional write review remains required. Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included."
 }
