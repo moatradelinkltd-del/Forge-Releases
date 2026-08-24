@@ -1,6 +1,6 @@
 {
-  "version": "5.0.0",
-  "sha256": "2c491540f0d1ab8c491728404ca3ce347b1724302be34702e5bfb9e7ace7e2a2",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.0/Forge-5.0.0.zip",
-  "notes": "Forge 5.0.0: Multi-Agent AFIWA Developer System with Lead coordination across Code, Build, Debug, Research, Test, and OS specialists, shared project/runtime context, collected specialist results, and an explicit locked final-review gate before modification preparation. Specialists analyze/propose only; existing transactional write review remains required. Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included."
+  "version": "5.0.1",
+  "sha256": "fe82cda99136c92b39e0d18fab04dec0fdbbefdbfa20a8a561f2dab786e36da9",
+  "notes": "Forge 5.0.1: UI polish with version-clean product chrome, animated native accent lighting, button hover/press feedback, focus glows, refined tabs, and cleaner visual depth. Internal release versioning remains intact. Multi-Agent AFIWA, Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.1/Forge-5.0.1.zip"
 }
