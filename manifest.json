@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.0.4: audio reliability and Home boot polish with a packaged pygame mixer backend, Windows fallbacks, real MP3/WAV decode validation, an original Forge chime synchronized to the Home particle sweep, breathing/glowing Forge logo handoff, and Home playlist playback delayed until startup and chime complete. Chrome Horizon, Cosmic Sparkle Dash (Afiwa), Neon Sparkle, the Experience Engine, Multi-Agent AFIWA, Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, and Code Intelligence remain included.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.4/Forge-5.0.4.zip",
-  "version": "5.0.4",
-  "sha256": "c72932b97e2539b24848443f8367e7a27918ee7b37568f0aa196e46412e19274"
+  "version": "5.0.5",
+  "notes": "Forge 5.0.5: UI Organization and Visual Hierarchy with consolidated Workspaces navigation, a single Home logo treatment, restrained Home information chrome, a compact audio dock, reduced duplicate explanatory UI, and cleaner spacing. Forge 5.0.4 reliable audio/chime/particle handoff and all existing OS development, agent, Git, memory, updater, installer, and safety systems remain included.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.5/Forge-5.0.5.zip",
+  "sha256": "702ae760d5216fed631a0557b4dbec593aa36aa71faa0dd1968c41c1f7e9d672"
 }
