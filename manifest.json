@@ -1,6 +1,6 @@
 {
-  "sha256": "a847f70e025ecc236d4cd567f1678b49109c9171072b34c6738ea978cdeaf966",
-  "notes": "Forge 5.0.7: Identity, Navigation, Motion & Sound Suite with AFIWA / FORGE / smaller-version startup hierarchy, no Cosmic Workspace tagline, smoother approximately 60 FPS focused motion, command palette and workspace history navigation, global status bar, motion/density presets, multi-channel sound controls, Quiet Workspace, softer music transitions, and the original Forge icon throughout the application and desktop shortcut. Forge 5.0.6 cosmic rendering and 5.0.5 startup reliability remain included.",
-  "version": "5.0.7",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.7/Forge-5.0.7.zip"
+  "sha256": "5e38e908578ec5905cb100bdf1b34f4377ef21d6ec1ba2293421091d0e8462e0",
+  "notes": "Forge 5.0.8: UI stability release with Home overlap fixes, live FPS, synchronized version labels, organized Settings, and a more visible update action.",
+  "version": "5.0.8",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.8/Forge-5.0.8.zip"
 }
