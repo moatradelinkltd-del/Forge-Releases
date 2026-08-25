@@ -1,6 +1,6 @@
 {
-  "version": "5.0.5",
-  "notes": "Forge 5.0.5: UI Organization and Visual Hierarchy with consolidated Workspaces navigation, a single Home logo treatment, restrained Home information chrome, a compact audio dock, reduced duplicate explanatory UI, and cleaner spacing. Forge 5.0.4 reliable audio/chime/particle handoff and all existing OS development, agent, Git, memory, updater, installer, and safety systems remain included.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.5/Forge-5.0.5.zip",
-  "sha256": "702ae760d5216fed631a0557b4dbec593aa36aa71faa0dd1968c41c1f7e9d672"
+  "version": "5.0.6",
+  "sha256": "039040ef61255d8400e48a65cf948e391a2cae533d89db28fcee8a498cdf5605",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.6/Forge-5.0.6.zip",
+  "notes": "Forge 5.0.6: Cosmic UI Refinement with a cleaner Home identity, larger Developer Console/version line, Settings-based music controls, 42% Home and 61% startup default-volume migration, denser smaller stars, stronger depth separation, softer twinkle, occasional bright stars, procedural nebula haze, softer lighting and a version-forward cosmic startup screen. Forge 5.0.5 startup reliability and existing developer/safety systems remain included."
 }
