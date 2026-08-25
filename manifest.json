@@ -1,6 +1,6 @@
 {
-  "sha256": "5e38e908578ec5905cb100bdf1b34f4377ef21d6ec1ba2293421091d0e8462e0",
-  "notes": "Forge 5.0.8: UI stability release with Home overlap fixes, live FPS, synchronized version labels, organized Settings, and a more visible update action.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.8/Forge-5.0.8.zip",
+  "notes": "Forge 5.0.8: UI stability release with Home overlap fixes, live FPS, synchronized version labels, organized Settings, a more visible update action, workspace visual improvements, and the startup-crash hotfix.",
   "version": "5.0.8",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.8/Forge-5.0.8.zip"
+  "sha256": "af7fdcaee3762626f81dd3cdfe14052f8dc7b39ba2065600b4b050a33c77fe9a"
 }
