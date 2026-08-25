@@ -1,6 +1,6 @@
 {
-  "version": "5.0.1",
-  "sha256": "fe82cda99136c92b39e0d18fab04dec0fdbbefdbfa20a8a561f2dab786e36da9",
-  "notes": "Forge 5.0.1: UI polish with version-clean product chrome, animated native accent lighting, button hover/press feedback, focus glows, refined tabs, and cleaner visual depth. Internal release versioning remains intact. Multi-Agent AFIWA, Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, and existing release/safety checks remain included.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.1/Forge-5.0.1.zip"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.2/Forge-5.0.2.zip",
+  "version": "5.0.2",
+  "sha256": "56259e017d60cca602d95c0cbe8c0468d0e4c059831e6d5c7e755fbb865d5e47",
+  "notes": "Forge 5.0.2: Experience Engine with centralized sound routing, category/volume/priority controls, audio diagnostics, a focus-aware Performance/Balanced/Visual render scheduler, DPI-awareness setup, render diagnostics, and reusable OS boot-timeline visualization foundations. Multi-Agent AFIWA, Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, UI polish, and existing release/safety checks remain included."
 }
