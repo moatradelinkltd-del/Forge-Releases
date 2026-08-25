@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.2/Forge-5.0.2.zip",
-  "version": "5.0.2",
-  "sha256": "56259e017d60cca602d95c0cbe8c0468d0e4c059831e6d5c7e755fbb865d5e47",
-  "notes": "Forge 5.0.2: Experience Engine with centralized sound routing, category/volume/priority controls, audio diagnostics, a focus-aware Performance/Balanced/Visual render scheduler, DPI-awareness setup, render diagnostics, and reusable OS boot-timeline visualization foundations. Multi-Agent AFIWA, Project Memory, Visual Git, AFIWA OS Center, Team Command Center, Agent Workspace, Code Intelligence, UI polish, and existing release/safety checks remain included."
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.3/Forge-5.0.3.zip",
+  "version": "5.0.3",
+  "sha256": "8a693e6e135c7e88b7c6118f4ed62f84596e29ca2afaf7cd492baf8a2d5ce06f",
+  "notes": "Forge 5.0.3: Home Atmosphere and UI refresh with Chrome Horizon synchronized to the 10-second startup animation with fade-in/fade-out, a Cosmic Sparkle Dash (Afiwa) / Neon Sparkle Home playlist, play/pause/previous/next/volume controls, workspace-aware music fades, and a cleaner command-deck Home interface. Legacy ambient/startup music is removed from the packaged release; the 5.0.2 Experience Engine and existing developer/safety systems remain included."
 }
