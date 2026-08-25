@@ -1,6 +1,6 @@
 {
   "notes": "Forge 5.0.9: Settings is now a full workspace mode, mode strip removed, Home text/FPS flicker stabilized, denser particles, and enhanced motion physics.",
+  "sha256": "2ecff9f458a3546420cf6b9279cc5863513ddcb56a5470249a39a50e85f29814",
   "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.9/Forge-5.0.9.zip",
-  "version": "5.0.9",
-  "sha256": "78b6874d9fc3b9968bfa6c66264b66128df46b191dd5beac66a61fe532a224d3"
+  "version": "5.0.9"
 }
