@@ -1,6 +1,6 @@
 {
+  "sha256": "48ed61cad667d1c77f9ee716111a75260590db543ecd5adc869746fb796c49b3",
   "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.8/Forge-5.0.8.zip",
-  "notes": "Forge 5.0.8: UI stability release with Home overlap fixes, live FPS, synchronized version labels, organized Settings, a more visible update action, workspace visual improvements, and the startup-crash hotfix.",
-  "version": "5.0.8",
-  "sha256": "af7fdcaee3762626f81dd3cdfe14052f8dc7b39ba2065600b4b050a33c77fe9a"
+  "notes": "Forge 5.0.8: hidden native mode strip, Settings workspace mode, Home console/version label removed, live FPS, and UI stability fixes.",
+  "version": "5.0.8"
 }
