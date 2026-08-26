@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.10/Forge-5.0.10.zip",
-  "sha256": "3a09fa17f3ed63dcc5286de4c56b3b41bfe794e5b1320b21b3440425299334de",
-  "version": "5.0.10",
-  "notes": "Forge 5.0.10: fixes Home flickering after update by using one renderer owner and redirecting legacy scheduled and direct mouse/hover redraws."
+  "notes": "Forge 5.0.11: static version overlay tied to canonical release version; only live FPS numbers update on Home.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.11/Forge-5.0.11.zip",
+  "version": "5.0.11",
+  "sha256": "825737b06e3f41fa49b80484e20bd469da84e829b25e406034ab4c2f7f01f8c3"
 }
