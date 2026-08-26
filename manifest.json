@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.0.11: static version overlay tied to canonical release version; only live FPS numbers update on Home.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.11/Forge-5.0.11.zip",
-  "version": "5.0.11",
-  "sha256": "825737b06e3f41fa49b80484e20bd469da84e829b25e406034ab4c2f7f01f8c3"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.12/Forge-5.0.12.zip",
+  "sha256": "5b4ec80f2e985e798f58a6649b5249ac7763af2d3a69a1248abd563ad5239733",
+  "notes": "Forge 5.0.12: stabilized static Home header, Developer Console version follows the installed Forge release, and live FPS refreshes every two seconds.",
+  "version": "5.0.12"
 }
