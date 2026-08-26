@@ -1,6 +1,6 @@
 {
-  "version": "5.0.18",
-  "sha256": "83759350a482bc79f39e02fd885965151c862a167bd818e6c50cb42ca46e29ef",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.18/Forge-5.0.18.zip",
-  "notes": "Forge 5.0.18: Home experience controls on the stabilized renderer, with the legacy 5.0.15 visual runtime fully disabled to eliminate background flicker during initialization."
+  "sha256": "a7d7eb9e0d11155c003186805c92bce60691ad4773fb210934c8df34607b0f88",
+  "notes": "Forge 5.0.19: searchable workspace/project/file switching, pinned and recent items, persistent workspace state, project-file search and faster keyboard navigation on the stabilized Home renderer.",
+  "version": "5.0.19",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.19/Forge-5.0.19.zip"
 }
