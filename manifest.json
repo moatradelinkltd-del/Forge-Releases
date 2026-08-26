@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.0.15: fixes mode/Home-card text overlap, uses 1-100 audio controls, and adds denser purple-astro particle motion to Home and startup.",
-  "version": "5.0.15",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.15/Forge-5.0.15.zip",
-  "sha256": "cc25c62d55344fef97de99fb06a1a344655c38afc53871e423f64408c125162f"
+  "notes": "Forge 5.0.17: consolidates Home/startup renderer ownership and adds adaptive particle performance with 30/45/60 FPS targets while retaining the 5.0.16 visual system.",
+  "version": "5.0.17",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.17/Forge-5.0.17.zip",
+  "sha256": "86b626dcb48d145a1b31680db10cf1f296f6f48530db19c5b2f2fe1ff80dddd6"
 }
