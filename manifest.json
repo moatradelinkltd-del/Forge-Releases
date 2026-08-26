@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.17/Forge-5.0.17.zip",
-  "notes": "Forge 5.0.17: uses the consolidated 5.0.17 renderer with a clean deep-space background, glass-transparent workspace cards, and adaptive particle performance.",
-  "version": "5.0.17",
-  "sha256": "f754e7a65e289d73eab1c12f1bdcccce33aa32591f718f4766c63f8fe1121191"
+  "notes": "Forge 5.0.18: adds Home visual presets, independent particle intensity/speed, purple accent tuning, richer glass-card hover depth, and Home reset controls on the stabilized renderer.",
+  "sha256": "4e217633dc98ea0fa59786c0abf94f0e27f603f9faf2f401e72b4897c23bc00f",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.18/Forge-5.0.18.zip",
+  "version": "5.0.18"
 }
