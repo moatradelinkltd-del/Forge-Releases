@@ -1,5 +1,5 @@
 {
-  "sha256": "205032dab4df43cfb327e3e55b2425567455535ecaf0d5980f147017cf617d93",
+  "sha256": "a2616d9f22b46b7bc79abcce71aac95005eee818144a82962c227e404c2ac63f",
   "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.20/Forge-5.0.20.zip",
   "version": "5.0.20",
   "notes": "Forge 5.0.20: fixes effective-target FPS adaptation, preserves Custom Home visual tuning, and expands performance diagnostics while retaining the stabilized Home and workspace architecture."
