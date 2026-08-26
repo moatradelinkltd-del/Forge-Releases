@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.12/Forge-5.0.12.zip",
-  "sha256": "5b4ec80f2e985e798f58a6649b5249ac7763af2d3a69a1248abd563ad5239733",
-  "notes": "Forge 5.0.12: stabilized static Home header, Developer Console version follows the installed Forge release, and live FPS refreshes every two seconds.",
-  "version": "5.0.12"
+  "notes": "Forge 5.0.13: removes the remaining flickering navigation status text beneath the static performance/FPS header.",
+  "sha256": "b756d9e4c261a7b842253d04ea91d0ab7b5993dca32420cdd49a7c9be9b017ee",
+  "version": "5.0.13",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.13/Forge-5.0.13.zip"
 }
