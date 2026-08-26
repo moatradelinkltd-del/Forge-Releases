@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.0.17: consolidates Home/startup renderer ownership and adds adaptive particle performance with 30/45/60 FPS targets while retaining the 5.0.16 visual system.",
   "version": "5.0.17",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.17/Forge-5.0.17.zip",
-  "sha256": "86b626dcb48d145a1b31680db10cf1f296f6f48530db19c5b2f2fe1ff80dddd6"
+  "sha256": "bde6438402221c3b74ba02c555e535b2cee844b0ae040f5d3efe3de7fd1cc855",
+  "notes": "Forge 5.0.17: uses the consolidated 5.0.17 renderer with a clean deep-space background, glass-transparent workspace cards, and adaptive particle performance.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.17/Forge-5.0.17.zip"
 }
