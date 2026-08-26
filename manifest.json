@@ -1,6 +1,6 @@
 {
-  "version": "5.0.17",
-  "sha256": "bde6438402221c3b74ba02c555e535b2cee844b0ae040f5d3efe3de7fd1cc855",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.17/Forge-5.0.17.zip",
   "notes": "Forge 5.0.17: uses the consolidated 5.0.17 renderer with a clean deep-space background, glass-transparent workspace cards, and adaptive particle performance.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.17/Forge-5.0.17.zip"
+  "version": "5.0.17",
+  "sha256": "f754e7a65e289d73eab1c12f1bdcccce33aa32591f718f4766c63f8fe1121191"
 }
