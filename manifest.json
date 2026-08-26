@@ -1,6 +1,6 @@
 {
-  "sha256": "a2616d9f22b46b7bc79abcce71aac95005eee818144a82962c227e404c2ac63f",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.20/Forge-5.0.20.zip",
-  "version": "5.0.20",
-  "notes": "Forge 5.0.20: fixes effective-target FPS adaptation, preserves Custom Home visual tuning, and expands performance diagnostics while retaining the stabilized Home and workspace architecture."
+  "sha256": "e49b3f21c441f8603a082f7ecdf0538102fb71d0e2b55f62cc4048ba37dd8497",
+  "notes": "Forge 5.1.0: adds the OS Runtime foundation with Windows power/window/monitor awareness, single-instance protection, minimized render suspension, DPI setup and lifecycle-safe timing.",
+  "version": "5.1.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.1.0/Forge-5.1.0.zip"
 }
