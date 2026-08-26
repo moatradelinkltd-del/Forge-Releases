@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.0.9: Settings is now a full workspace mode, mode strip removed, Home text/FPS flicker stabilized, denser particles, and enhanced motion physics.",
-  "sha256": "2ecff9f458a3546420cf6b9279cc5863513ddcb56a5470249a39a50e85f29814",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.9/Forge-5.0.9.zip",
-  "version": "5.0.9"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.10/Forge-5.0.10.zip",
+  "sha256": "3a09fa17f3ed63dcc5286de4c56b3b41bfe794e5b1320b21b3440425299334de",
+  "version": "5.0.10",
+  "notes": "Forge 5.0.10: fixes Home flickering after update by using one renderer owner and redirecting legacy scheduled and direct mouse/hover redraws."
 }
