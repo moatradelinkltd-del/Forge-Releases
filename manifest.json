@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.0.14: blocks the legacy animated Home header canvas text so the static performance/FPS header no longer flickers.",
-  "sha256": "071434d016ec2aea9424ab71644797e7682a6f262499672f9fcf697b2dee276c",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.14/Forge-5.0.14.zip",
-  "version": "5.0.14"
+  "notes": "Forge 5.0.15: fixes mode/Home-card text overlap, uses 1-100 audio controls, and adds denser purple-astro particle motion to Home and startup.",
+  "version": "5.0.15",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.0.15/Forge-5.0.15.zip",
+  "sha256": "cc25c62d55344fef97de99fb06a1a344655c38afc53871e423f64408c125162f"
 }
