@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.3.1: restores the stable 5.2 Home rendering architecture and removes the retained/immediate Canvas scene-stacking failure introduced by 5.3.0.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.3.1/Forge-5.3.1.zip",
-  "version": "5.3.1",
-  "sha256": "e7011e711e7dd50e33eae2308f96383725ecf1c78702089c00486a2aadc97776"
+  "sha256": "11a398448a590744edf53f0506b0acac4b7f94939634cf1493c6ac3dabcc5bc6",
+  "notes": "Forge 5.4.0: adds frame pacing metrics, render-aware scheduling and a hysteresis-based adaptive quality ladder while preserving the stable Home architecture.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.4.0/Forge-5.4.0.zip",
+  "version": "5.4.0"
 }
