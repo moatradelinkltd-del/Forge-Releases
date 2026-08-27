@@ -1,6 +1,6 @@
 {
-  "sha256": "11a398448a590744edf53f0506b0acac4b7f94939634cf1493c6ac3dabcc5bc6",
-  "notes": "Forge 5.4.0: adds frame pacing metrics, render-aware scheduling and a hysteresis-based adaptive quality ladder while preserving the stable Home architecture.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.4.0/Forge-5.4.0.zip",
-  "version": "5.4.0"
+  "sha256": "222a5a6c5bd38343265432843400f118162c7e485aad1f032393298a2edf3e22",
+  "notes": "Forge 5.5.0: adds power-aware Auto/Performance/Balanced/Efficiency resource profiles while preserving 5.4 frame pacing and the stable Home architecture.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.5.0/Forge-5.5.0.zip",
+  "version": "5.5.0"
 }
