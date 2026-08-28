@@ -69,7 +69,8 @@ jobs:
       - name: Sign canonical manifest with Sigstore
         shell: bash
         run: |
-          python -m sigstore sign --bundle "$BUNDLE" --overwrite manifest.payload.json
+          python -m sigstore sign manifest.payload.json
+          mv manifest.payload.json.sigstore.json "$BUNDLE"
           python -m sigstore verify github manifest.payload.json \
             --bundle "$BUNDLE" \
             --repository moatradelinkltd-del/Forge-Releases \
@@ -88,7 +89,6 @@ jobs:
         run: |
           python - <<'PY'
           import json
-          import os
           from pathlib import Path
 
           payload = json.loads(Path('manifest.payload.json').read_text(encoding='utf-8'))
