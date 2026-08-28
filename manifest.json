@@ -1,6 +1,6 @@
 {
-  "notes": "Forge 5.9.0: adds bounded large-file previews, binary-file protection, preview save guards, and project-scale background refresh protection while retaining existing runtime ownership.",
-  "sha256": "e8cfceba8f4b7388915ebc51e442ad8b08eb862a6c1a3e13120aec4a981e1d65",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.9.0/Forge-5.9.0.zip",
-  "version": "5.9.0"
+  "sha256": "5c3841d798f9fed787618173d9d34e7859cd862c0bae45a45af54f18e2fcfaa1",
+  "version": "5.10.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.10.0/Forge-5.10.0.zip",
+  "notes": "Forge 5.10.0: adds centralized config persistence with debounced saves, schema migration, last-good backups, corruption recovery, shutdown flushing, and preserved Windows DPAPI credential storage."
 }
