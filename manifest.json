@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.8.0/Forge-5.8.0.zip",
-  "version": "5.8.0",
-  "notes": "Forge 5.8.0: adds automatic Build Performance Mode with temporary Home/resource throttling, quiet workspace indexing during heavy builds/tests, prioritized terminal output, and automatic restoration afterward.",
-  "sha256": "72be284600c0bf60db1c326c90108299f01f6e3f2046bd27aa0f935afc8c478f"
+  "notes": "Forge 5.9.0: adds bounded large-file previews, binary-file protection, preview save guards, and project-scale background refresh protection while retaining existing runtime ownership.",
+  "sha256": "e8cfceba8f4b7388915ebc51e442ad8b08eb862a6c1a3e13120aec4a981e1d65",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.9.0/Forge-5.9.0.zip",
+  "version": "5.9.0"
 }
