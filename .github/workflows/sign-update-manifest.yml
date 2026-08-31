@@ -1,12 +1,13 @@
 name: Sign Forge Update Manifest
+run-name: Sign Forge ${{ inputs.expected_version }}
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'manifest.pending.json'
   workflow_dispatch:
+    inputs:
+      expected_version:
+        description: 'Forge version expected in manifest.pending.json'
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -25,16 +26,23 @@ jobs:
           python-version: '3.12'
 
       - name: Install Sigstore
-        run: python -m pip install 'sigstore==4.5.0'
+        run: python -m pip install --disable-pip-version-check 'sigstore==4.5.0'
 
       - name: Validate and canonicalize pending manifest
         shell: bash
+        env:
+          EXPECTED_VERSION: ${{ inputs.expected_version }}
         run: |
           python - <<'PY'
           import json
+          import os
           import re
           from pathlib import Path
           from urllib.parse import urlparse
+
+          expected_version = os.environ.get('EXPECTED_VERSION', '').strip()
+          if not re.fullmatch(r'\d+\.\d+\.\d+', expected_version):
+              raise SystemExit(f'Invalid dispatched Forge version: {expected_version!r}')
 
           pending_path = Path('manifest.pending.json')
           if not pending_path.exists():
@@ -46,6 +54,10 @@ jobs:
           notes = str(pending.get('notes', '')).strip()
           if not re.fullmatch(r'\d+\.\d+\.\d+', version):
               raise SystemExit(f'Invalid Forge version: {version!r}')
+          if version != expected_version:
+              raise SystemExit(
+                  f'Pending manifest version {version!r} does not match dispatched version {expected_version!r}.'
+              )
           if not re.fullmatch(r'[0-9a-f]{64}', sha256):
               raise SystemExit('Invalid SHA-256 in pending manifest.')
           parsed = urlparse(download_url)
