@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.2.0/Forge-6.2.0.zip",
-  "notes": "Forge 6.2.0: restores reliable Home music and adds Updater 3 transactional staging, protocol-3 health validation, crash recovery, and automatic rollback.",
-  "sha256": "1281fd9059e68ccb78cf21255545e7d8b7b4c64fa777c3910653044be65679fa",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.2.0/Forge-manifest-6.2.0.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.3.0/Forge-6.3.0.zip",
+  "notes": "Forge 6.3.0: retires 5.0.18 as the active Home visual owner, adds denser audio-reactive startup/Home particles, removes the startup subtitle, primes one continuous Home background, and plays an original Forge transition cue before Home music.",
+  "sha256": "361653ae4e0c49e3a5074994cc1b430eecf39bba963ac252750d4d49890b2fe0",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.3.0/Forge-manifest-6.3.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.2.0"
+  "version": "6.3.0"
 }
