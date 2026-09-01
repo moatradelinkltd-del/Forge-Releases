@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.12.0/Forge-5.12.0.zip",
-  "notes": "Forge 5.12.0: Native Windows Experience adds DPI-aware presentation, remembered window placement, Windows motion preferences, and taskbar command state.",
-  "sha256": "055dc4431ba88aebcab6c292052fa8532710c77a34dd9839b6b5b8c54b0d463c",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.12.0/Forge-manifest-5.12.0.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.0.0/Forge-6.0.0.zip",
+  "notes": "Forge 6.0.0: Cross-Platform Runtime adds supported Windows, Linux and ChromeOS profiles plus read-only Android/iOS Preview capability gating.",
+  "sha256": "7dab97379cc1ac5216360bca5c209121b807d7b76e0e90d31b8211f2ef49afc1",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.0.0/Forge-manifest-6.0.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "5.12.0"
+  "version": "6.0.0"
 }
