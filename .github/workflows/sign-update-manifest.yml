@@ -1,13 +1,13 @@
 name: Sign Forge Update Manifest
-run-name: Sign Forge ${{ inputs.expected_version }}
+run-name: Sign Forge manifest ${{ github.sha }}
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'manifest.pending.json'
   workflow_dispatch:
-    inputs:
-      expected_version:
-        description: 'Forge version expected in manifest.pending.json'
-        required: true
-        type: string
 
 permissions:
   contents: write
@@ -30,19 +30,12 @@ jobs:
 
       - name: Validate and canonicalize pending manifest
         shell: bash
-        env:
-          EXPECTED_VERSION: ${{ inputs.expected_version }}
         run: |
           python - <<'PY'
           import json
-          import os
           import re
           from pathlib import Path
           from urllib.parse import urlparse
-
-          expected_version = os.environ.get('EXPECTED_VERSION', '').strip()
-          if not re.fullmatch(r'\d+\.\d+\.\d+', expected_version):
-              raise SystemExit(f'Invalid dispatched Forge version: {expected_version!r}')
 
           pending_path = Path('manifest.pending.json')
           if not pending_path.exists():
@@ -52,18 +45,23 @@ jobs:
           sha256 = str(pending.get('sha256', '')).strip().lower()
           download_url = str(pending.get('download_url', '')).strip()
           notes = str(pending.get('notes', '')).strip()
+          request_id = str(pending.get('request_id', '')).strip()
+          source_commit = str(pending.get('source_commit', '')).strip().lower()
+
           if not re.fullmatch(r'\d+\.\d+\.\d+', version):
               raise SystemExit(f'Invalid Forge version: {version!r}')
-          if version != expected_version:
-              raise SystemExit(
-                  f'Pending manifest version {version!r} does not match dispatched version {expected_version!r}.'
-              )
           if not re.fullmatch(r'[0-9a-f]{64}', sha256):
               raise SystemExit('Invalid SHA-256 in pending manifest.')
+          if not re.fullmatch(r'[0-9a-f]{40}', source_commit):
+              raise SystemExit('Invalid source commit in pending manifest.')
+          if not re.fullmatch(r'[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-5][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}', request_id):
+              raise SystemExit('Invalid request ID in pending manifest.')
+
           parsed = urlparse(download_url)
           expected_path = f'/moatradelinkltd-del/Forge-Releases/releases/download/v{version}/Forge-{version}.zip'
           if parsed.scheme != 'https' or parsed.netloc.lower() != 'github.com' or parsed.path != expected_path:
               raise SystemExit('Pending manifest download URL is outside the trusted Forge release path.')
+
           payload = {
               'download_url': download_url,
               'notes': notes,
