@@ -1,8 +1,8 @@
 {
-  "version": "6.1.0",
-  "sha256": "b24084025de6620353112729d651c2049d97e26b6826a7828ef27b9766568644",
-  "notes": "Forge 6.1.0: Performance + Startup Experience reduces idle UI work and restores the startup animation before the main Forge window.",
-  "request_id": "7b71a1d9-81f3-441f-b707-f9b7b00da39b",
-  "source_commit": "18d8e48698b771e309a02dd6ac1089da8f6dce29",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.0/Forge-6.1.0.zip"
+  "version": "6.1.1",
+  "source_commit": "6c1db9b381e5973f37e79bc072d58b0386189ec6",
+  "notes": "Forge 6.1.1: startup animation paints before the main Forge UI, remains visible for ten seconds, and uses smoother startup-audio fades.",
+  "sha256": "87e1d73ef6e27a1726963739da7d720a20e4d738d59d571d4bace5553639611b",
+  "request_id": "5a225f44-4b82-42e1-90e9-3cf9d6e33dd0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.1/Forge-6.1.1.zip"
 }
