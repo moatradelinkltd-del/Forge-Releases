@@ -1,8 +1,8 @@
 {
-  "version": "6.1.1",
-  "source_commit": "6c1db9b381e5973f37e79bc072d58b0386189ec6",
-  "notes": "Forge 6.1.1: startup animation paints before the main Forge UI, remains visible for ten seconds, and uses smoother startup-audio fades.",
-  "sha256": "87e1d73ef6e27a1726963739da7d720a20e4d738d59d571d4bace5553639611b",
-  "request_id": "5a225f44-4b82-42e1-90e9-3cf9d6e33dd0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.1/Forge-6.1.1.zip"
+  "source_commit": "f31b8f3c089b4c3ce4189d52bb43a6641b111a43",
+  "request_id": "118fdb16-2836-4ea3-bc85-40bb503b8d6e",
+  "notes": "Forge 6.2.0: restores reliable Home music and adds Updater 3 transactional staging, protocol-3 health validation, crash recovery, and automatic rollback.",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.2.0/Forge-6.2.0.zip",
+  "version": "6.2.0",
+  "sha256": "1281fd9059e68ccb78cf21255545e7d8b7b4c64fa777c3910653044be65679fa"
 }
