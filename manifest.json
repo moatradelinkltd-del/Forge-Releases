@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.1/Forge-6.1.1.zip",
-  "notes": "Forge 6.1.1: startup animation paints before the main Forge UI, remains visible for ten seconds, and uses smoother startup-audio fades.",
-  "sha256": "87e1d73ef6e27a1726963739da7d720a20e4d738d59d571d4bace5553639611b",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.1/Forge-manifest-6.1.1.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.2.0/Forge-6.2.0.zip",
+  "notes": "Forge 6.2.0: restores reliable Home music and adds Updater 3 transactional staging, protocol-3 health validation, crash recovery, and automatic rollback.",
+  "sha256": "1281fd9059e68ccb78cf21255545e7d8b7b4c64fa777c3910653044be65679fa",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.2.0/Forge-manifest-6.2.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.1.1"
+  "version": "6.2.0"
 }
