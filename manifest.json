@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.0.0/Forge-6.0.0.zip",
-  "notes": "Forge 6.0.0: Cross-Platform Runtime adds supported Windows, Linux and ChromeOS profiles plus read-only Android/iOS Preview capability gating.",
-  "sha256": "7dab97379cc1ac5216360bca5c209121b807d7b76e0e90d31b8211f2ef49afc1",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.0.0/Forge-manifest-6.0.0.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.0/Forge-6.1.0.zip",
+  "notes": "Forge 6.1.0: Performance + Startup Experience reduces idle UI work and restores the startup animation before the main Forge window.",
+  "sha256": "b24084025de6620353112729d651c2049d97e26b6826a7828ef27b9766568644",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.0/Forge-manifest-6.1.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.0.0"
+  "version": "6.1.0"
 }
