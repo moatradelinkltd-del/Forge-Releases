@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.0/Forge-6.4.0.zip",
-  "notes": "Forge 6.4.0: retires 5.0.18 as the active Home visual owner, adds denser audio-reactive startup/Home particles, removes the startup subtitle, primes one continuous Home background, and plays an original Forge transition cue before Home music.",
-  "sha256": "800186d2ab0f7958d717d9b6f6a477f1f6c05eb5c75c9104855622898ae286ec",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.0/Forge-manifest-6.4.0.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.1/Forge-6.4.1.zip",
+  "notes": "Forge 6.4.1: adds an original airy Home-intro whoosh, whoosh-driven particle motion, one permanent Home audio runtime, reliable sequential two-track playback, and Home navigation fade-out/fade-in while preserving Music Everywhere.",
+  "sha256": "dba980174df259d044439d9aa70c716877a652846fb17f17da32fe5c6ec3ff3d",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.1/Forge-manifest-6.4.1.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.4.0"
+  "version": "6.4.1"
 }
