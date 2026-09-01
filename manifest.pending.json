@@ -1,8 +1,8 @@
 {
-  "request_id": "cd641fa5-413f-46e2-bf7c-8b7621d515cc",
-  "version": "6.0.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.0.0/Forge-6.0.0.zip",
-  "sha256": "7dab97379cc1ac5216360bca5c209121b807d7b76e0e90d31b8211f2ef49afc1",
-  "notes": "Forge 6.0.0: Cross-Platform Runtime adds supported Windows, Linux and ChromeOS profiles plus read-only Android/iOS Preview capability gating.",
-  "source_commit": "dd7e28a82ba6be615673e837feb5b1d4374a1a57"
+  "version": "6.1.0",
+  "sha256": "b24084025de6620353112729d651c2049d97e26b6826a7828ef27b9766568644",
+  "notes": "Forge 6.1.0: Performance + Startup Experience reduces idle UI work and restores the startup animation before the main Forge window.",
+  "request_id": "7b71a1d9-81f3-441f-b707-f9b7b00da39b",
+  "source_commit": "18d8e48698b771e309a02dd6ac1089da8f6dce29",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.1.0/Forge-6.1.0.zip"
 }
