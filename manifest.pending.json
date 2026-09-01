@@ -1,8 +1,8 @@
 {
-  "request_id": "0b9cd069-1545-4cb6-a37d-a2d4003511f9",
-  "notes": "Forge 6.3.0: retires 5.0.18 as the active Home visual owner, adds denser audio-reactive startup/Home particles, removes the startup subtitle, primes one continuous Home background, and plays an original Forge transition cue before Home music.",
-  "source_commit": "d9eb5e961bb81e58ed6117d418dc8bbab44149ea",
-  "sha256": "361653ae4e0c49e3a5074994cc1b430eecf39bba963ac252750d4d49890b2fe0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.3.0/Forge-6.3.0.zip",
-  "version": "6.3.0"
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.0/Forge-6.4.0.zip",
+  "sha256": "800186d2ab0f7958d717d9b6f6a477f1f6c05eb5c75c9104855622898ae286ec",
+  "request_id": "5b632dd4-6aed-409c-aa74-ef0b1fef1ca3",
+  "notes": "Forge 6.4.0: retires 5.0.18 as the active Home visual owner, adds denser audio-reactive startup/Home particles, removes the startup subtitle, primes one continuous Home background, and plays an original Forge transition cue before Home music.",
+  "version": "6.4.0",
+  "source_commit": "47122ded59f19f893aaa2464c296c26ede982bf6"
 }
