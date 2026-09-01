@@ -1,6 +1,8 @@
 {
+  "notes": "Forge 5.12.0: Native Windows Experience adds DPI-aware presentation, remembered window placement, Windows motion preferences, and taskbar command state.",
+  "sha256": "055dc4431ba88aebcab6c292052fa8532710c77a34dd9839b6b5b8c54b0d463c",
   "version": "5.12.0",
   "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.12.0/Forge-5.12.0.zip",
-  "notes": "Forge 5.12.0: Native Windows Experience adds DPI-aware presentation, remembered window placement, Windows motion preferences, and taskbar command state.",
-  "sha256": "fcea49cbd03987b42ce0e5c37f773b3336bf0c277a0860fd046aef51ede4c2f0"
+  "request_id": "c11fa06d-f5bd-43f4-b711-c8267fe4973a",
+  "source_commit": "e04ce3d7eee144c8c405ff61ab303f6b3131bc12"
 }
