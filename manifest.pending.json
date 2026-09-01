@@ -1,6 +1,6 @@
 {
-  "sha256": "17305d1d64bd418ea39a8b9aa0adf269aaf10aa76a3e3e2e5441d7418d0b3105",
+  "version": "5.12.0",
   "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v5.12.0/Forge-5.12.0.zip",
   "notes": "Forge 5.12.0: Native Windows Experience adds DPI-aware presentation, remembered window placement, Windows motion preferences, and taskbar command state.",
-  "version": "5.12.0"
+  "sha256": "fcea49cbd03987b42ce0e5c37f773b3336bf0c277a0860fd046aef51ede4c2f0"
 }
