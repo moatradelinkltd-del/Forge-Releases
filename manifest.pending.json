@@ -1,8 +1,8 @@
 {
-  "source_commit": "f31b8f3c089b4c3ce4189d52bb43a6641b111a43",
-  "request_id": "118fdb16-2836-4ea3-bc85-40bb503b8d6e",
-  "notes": "Forge 6.2.0: restores reliable Home music and adds Updater 3 transactional staging, protocol-3 health validation, crash recovery, and automatic rollback.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.2.0/Forge-6.2.0.zip",
-  "version": "6.2.0",
-  "sha256": "1281fd9059e68ccb78cf21255545e7d8b7b4c64fa777c3910653044be65679fa"
+  "request_id": "0b9cd069-1545-4cb6-a37d-a2d4003511f9",
+  "notes": "Forge 6.3.0: retires 5.0.18 as the active Home visual owner, adds denser audio-reactive startup/Home particles, removes the startup subtitle, primes one continuous Home background, and plays an original Forge transition cue before Home music.",
+  "source_commit": "d9eb5e961bb81e58ed6117d418dc8bbab44149ea",
+  "sha256": "361653ae4e0c49e3a5074994cc1b430eecf39bba963ac252750d4d49890b2fe0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.3.0/Forge-6.3.0.zip",
+  "version": "6.3.0"
 }
