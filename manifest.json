@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.7.0/Forge-6.7.0.zip",
-  "notes": "Forge 6.7.0: adds one permanent Diagnostics & Reliability Engine with provider registration, redacted snapshots, bounded recoverable-error capture, runtime self-checks, and a Diagnostics tab while retaining 6.5/6.6 intelligence ownership, Updater 3, and the existing signed update trust path.",
-  "sha256": "cd4f97234046ca3942f63fca47614559077ebc5fe9ad666368e28e8e9eca8409",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.7.0/Forge-manifest-6.7.0.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.8.0/Forge-6.8.0.zip",
+  "notes": "Forge 6.8.0: adds native Linux amd64 Debian packaging, XDG config/data/cache paths with copy-only legacy migration, desktop integration, and 6.7 diagnostics-provider reporting while retaining Windows Updater 3 and the existing signed update trust path.",
+  "sha256": "6babf968cacc9b5790a45c18e689afe83970ec432faefdba21a3555e3bb42c6c",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.8.0/Forge-manifest-6.8.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.7.0"
+  "version": "6.8.0"
 }
