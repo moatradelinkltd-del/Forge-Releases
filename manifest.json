@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.1/Forge-6.4.1.zip",
-  "notes": "Forge 6.4.1: adds an original airy Home-intro whoosh, whoosh-driven particle motion, one permanent Home audio runtime, reliable sequential two-track playback, and Home navigation fade-out/fade-in while preserving Music Everywhere.",
-  "sha256": "dba980174df259d044439d9aa70c716877a652846fb17f17da32fe5c6ec3ff3d",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.1/Forge-manifest-6.4.1.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.5.0/Forge-6.5.0.zip",
+  "notes": "Forge 6.5.0: adds Workspace Intelligence with background file/symbol enrichment, unified command/file/symbol search, smart project ignores, recent-file ranking, and F12 definition navigation while retaining the 5.2 index owner and 5.9 protected file opening.",
+  "sha256": "15ed9952764322cf6b1bd15b9ff5a4bdca0384fc307517127de56da15edaa14e",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.5.0/Forge-manifest-6.5.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.4.1"
+  "version": "6.5.0"
 }
