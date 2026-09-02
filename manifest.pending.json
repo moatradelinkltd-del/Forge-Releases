@@ -1,8 +1,8 @@
 {
-  "sha256": "dba980174df259d044439d9aa70c716877a652846fb17f17da32fe5c6ec3ff3d",
-  "request_id": "c715026b-821f-412a-bb10-467680cd3a4b",
-  "version": "6.4.1",
-  "notes": "Forge 6.4.1: adds an original airy Home-intro whoosh, whoosh-driven particle motion, one permanent Home audio runtime, reliable sequential two-track playback, and Home navigation fade-out/fade-in while preserving Music Everywhere.",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.4.1/Forge-6.4.1.zip",
-  "source_commit": "4d1ab8eb96ac76a6ebaaf0ea1d8a710380a78eaf"
+  "request_id": "89f4b5c3-c3de-496d-9cd9-35ba1f901d12",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.5.0/Forge-6.5.0.zip",
+  "version": "6.5.0",
+  "notes": "Forge 6.5.0: adds Workspace Intelligence with background file/symbol enrichment, unified command/file/symbol search, smart project ignores, recent-file ranking, and F12 definition navigation while retaining the 5.2 index owner and 5.9 protected file opening.",
+  "sha256": "15ed9952764322cf6b1bd15b9ff5a4bdca0384fc307517127de56da15edaa14e",
+  "source_commit": "605bde774b5175b3d773dc359abfa43660bf8e2e"
 }
