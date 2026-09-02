@@ -1,22 +1,22 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-6.9.0.zip",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.10.0/Forge-6.10.0.zip",
   "linux_packages": {
     "amd64": {
-      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-6.9.0-linux-amd64.deb",
-      "sha256": "f842b241b68429649e19455174125b5fb11d385a4c8964369c8347baa4484686"
+      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.10.0/Forge-6.10.0-linux-amd64.deb",
+      "sha256": "8415dcbafea18b5928c9a57ed702ade48ae886ade059f907146d6ef4122e5647"
     },
     "arm64": {
-      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-6.9.0-linux-arm64.deb",
-      "sha256": "7563ff01d93a80f04a8a131f5e1655beee77754cdac03b21486256ab7681c927"
+      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.10.0/Forge-6.10.0-linux-arm64.deb",
+      "sha256": "76b98400167a5f260f05589e1064a98c485ae4b4cd8cb764eb93a8956794e0a6"
     }
   },
-  "notes": "Forge 6.9.0: adds Sigstore-signed Linux amd64/arm64 package metadata and verified system-package-manager update handoff while preserving Windows Updater 3.",
-  "sha256": "ebe35b59e88827d282c4a4fbaad99e84213b539717dacdb14bf00c0e2696bf02",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-manifest-6.9.0.sigstore.json",
+  "notes": "Forge 6.10.0: adds Terminal 2 with named persistent sessions, split terminal history, protected file references, ANSI styling, and execution-session routing while preserving Windows Updater 3 and signed Linux amd64/arm64 updates.",
+  "sha256": "1658a831b55038955f5702890949f26e03664ad93b0a5d57d50a55d0ec7ea543",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.10.0/Forge-manifest-6.10.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.9.0"
+  "version": "6.10.0"
 }
