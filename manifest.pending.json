@@ -1,8 +1,18 @@
 {
-  "notes": "Forge 6.8.0: adds native Linux amd64 Debian packaging, XDG config/data/cache paths with copy-only legacy migration, desktop integration, and 6.7 diagnostics-provider reporting while retaining Windows Updater 3 and the existing signed update trust path.",
-  "sha256": "6babf968cacc9b5790a45c18e689afe83970ec432faefdba21a3555e3bb42c6c",
-  "version": "6.8.0",
-  "source_commit": "ced4107d4153148c51dc776fe77cdf81a207782e",
-  "request_id": "e31c8da2-0c29-479c-a8e0-67453152070c",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.8.0/Forge-6.8.0.zip"
+  "version": "6.9.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-6.9.0.zip",
+  "sha256": "ebe35b59e88827d282c4a4fbaad99e84213b539717dacdb14bf00c0e2696bf02",
+  "notes": "Forge 6.9.0: adds Sigstore-signed Linux amd64/arm64 package metadata and verified system-package-manager update handoff while preserving Windows Updater 3.",
+  "linux_packages": {
+    "amd64": {
+      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-6.9.0-linux-amd64.deb",
+      "sha256": "f842b241b68429649e19455174125b5fb11d385a4c8964369c8347baa4484686"
+    },
+    "arm64": {
+      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.9.0/Forge-6.9.0-linux-arm64.deb",
+      "sha256": "7563ff01d93a80f04a8a131f5e1655beee77754cdac03b21486256ab7681c927"
+    }
+  },
+  "request_id": "7589daf1-0a79-4ea2-9265-40bd9d456fd3",
+  "source_commit": "b99f7eda729b9307045dcc63094f6e90bd8eeab2"
 }
