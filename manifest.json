@@ -1,12 +1,12 @@
 {
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.6.0/Forge-6.6.0.zip",
-  "notes": "Forge 6.6.0: adds Code Intelligence & Refactoring with bounded background Find References, file/project symbol outlines, and preview-first transactional Rename Symbol using identifier boundaries, file fingerprints, backups, stale-preview rejection, and rollback while retaining the 6.5 index owner and 5.9 protected file opening.",
-  "sha256": "a5d6b7040cc63a91b3405f931c31e314f71256f25a3f73a35fb3e51619f06bba",
-  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.6.0/Forge-manifest-6.6.0.sigstore.json",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.7.0/Forge-6.7.0.zip",
+  "notes": "Forge 6.7.0: adds one permanent Diagnostics & Reliability Engine with provider registration, redacted snapshots, bounded recoverable-error capture, runtime self-checks, and a Diagnostics tab while retaining 6.5/6.6 intelligence ownership, Updater 3, and the existing signed update trust path.",
+  "sha256": "cd4f97234046ca3942f63fca47614559077ebc5fe9ad666368e28e8e9eca8409",
+  "signature_bundle_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.7.0/Forge-manifest-6.7.0.sigstore.json",
   "signature_issuer": "https://token.actions.githubusercontent.com",
   "signature_ref": "refs/heads/main",
   "signature_repository": "moatradelinkltd-del/Forge-Releases",
   "signature_type": "sigstore",
   "signature_workflow": "Sign Forge Update Manifest",
-  "version": "6.6.0"
+  "version": "6.7.0"
 }
