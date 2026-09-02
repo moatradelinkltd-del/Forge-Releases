@@ -68,6 +68,40 @@ jobs:
               'sha256': sha256,
               'version': version,
           }
+
+          # Forge 6.9 adds optional signed Linux package metadata. Keeping this
+          # field conditional preserves the exact historical canonical payload
+          # for 6.8 and earlier manifests.
+          if 'linux_packages' in pending:
+              packages = pending.get('linux_packages')
+              if not isinstance(packages, dict) or set(packages) != {'amd64', 'arm64'}:
+                  raise SystemExit('linux_packages must contain exactly amd64 and arm64 entries.')
+              normalized_packages = {}
+              for arch in ('amd64', 'arm64'):
+                  item = packages.get(arch)
+                  if not isinstance(item, dict):
+                      raise SystemExit(f'Linux package entry {arch!r} must be an object.')
+                  package_sha = str(item.get('sha256', '')).strip().lower()
+                  package_url = str(item.get('download_url', '')).strip()
+                  if not re.fullmatch(r'[0-9a-f]{64}', package_sha):
+                      raise SystemExit(f'Invalid SHA-256 for Linux package {arch}.')
+                  parsed_package = urlparse(package_url)
+                  expected_package_path = (
+                      f'/moatradelinkltd-del/Forge-Releases/releases/download/v{version}/'
+                      f'Forge-{version}-linux-{arch}.deb'
+                  )
+                  if (
+                      parsed_package.scheme != 'https'
+                      or parsed_package.netloc.lower() != 'github.com'
+                      or parsed_package.path != expected_package_path
+                  ):
+                      raise SystemExit(f'Linux package URL for {arch} is outside the trusted Forge release path.')
+                  normalized_packages[arch] = {
+                      'download_url': package_url,
+                      'sha256': package_sha,
+                  }
+              payload['linux_packages'] = normalized_packages
+
           canonical = json.dumps(payload, sort_keys=True, separators=(',', ':'), ensure_ascii=False).encode('utf-8')
           Path('manifest.payload.json').write_bytes(canonical)
           with open('/tmp/forge-signing.env', 'w', encoding='utf-8') as handle:
