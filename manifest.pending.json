@@ -1,8 +1,8 @@
 {
-  "request_id": "52804ab5-7b02-4458-809d-4f8ccc074cdd",
-  "source_commit": "4f7360035dfb7b3038745897c0ea983127549e9e",
-  "notes": "Forge 6.6.0: adds Code Intelligence & Refactoring with bounded background Find References, file/project symbol outlines, and preview-first transactional Rename Symbol using identifier boundaries, file fingerprints, backups, stale-preview rejection, and rollback while retaining the 6.5 index owner and 5.9 protected file opening.",
-  "version": "6.6.0",
-  "sha256": "a5d6b7040cc63a91b3405f931c31e314f71256f25a3f73a35fb3e51619f06bba",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.6.0/Forge-6.6.0.zip"
+  "notes": "Forge 6.7.0: adds one permanent Diagnostics & Reliability Engine with provider registration, redacted snapshots, bounded recoverable-error capture, runtime self-checks, and a Diagnostics tab while retaining 6.5/6.6 intelligence ownership, Updater 3, and the existing signed update trust path.",
+  "source_commit": "5ca36a0cb9638f6a62c55edbde256e45e3999105",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.7.0/Forge-6.7.0.zip",
+  "version": "6.7.0",
+  "sha256": "cd4f97234046ca3942f63fca47614559077ebc5fe9ad666368e28e8e9eca8409",
+  "request_id": "5d83ad94-60fb-4524-8b07-f8ed20e8f469"
 }
