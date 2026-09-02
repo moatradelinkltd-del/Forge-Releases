@@ -1,8 +1,8 @@
 {
-  "notes": "Forge 6.7.0: adds one permanent Diagnostics & Reliability Engine with provider registration, redacted snapshots, bounded recoverable-error capture, runtime self-checks, and a Diagnostics tab while retaining 6.5/6.6 intelligence ownership, Updater 3, and the existing signed update trust path.",
-  "source_commit": "5ca36a0cb9638f6a62c55edbde256e45e3999105",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.7.0/Forge-6.7.0.zip",
-  "version": "6.7.0",
-  "sha256": "cd4f97234046ca3942f63fca47614559077ebc5fe9ad666368e28e8e9eca8409",
-  "request_id": "5d83ad94-60fb-4524-8b07-f8ed20e8f469"
+  "notes": "Forge 6.8.0: adds native Linux amd64 Debian packaging, XDG config/data/cache paths with copy-only legacy migration, desktop integration, and 6.7 diagnostics-provider reporting while retaining Windows Updater 3 and the existing signed update trust path.",
+  "sha256": "6babf968cacc9b5790a45c18e689afe83970ec432faefdba21a3555e3bb42c6c",
+  "version": "6.8.0",
+  "source_commit": "ced4107d4153148c51dc776fe77cdf81a207782e",
+  "request_id": "e31c8da2-0c29-479c-a8e0-67453152070c",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.8.0/Forge-6.8.0.zip"
 }
