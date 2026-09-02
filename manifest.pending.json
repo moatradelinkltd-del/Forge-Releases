@@ -1,8 +1,8 @@
 {
-  "request_id": "89f4b5c3-c3de-496d-9cd9-35ba1f901d12",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.5.0/Forge-6.5.0.zip",
-  "version": "6.5.0",
-  "notes": "Forge 6.5.0: adds Workspace Intelligence with background file/symbol enrichment, unified command/file/symbol search, smart project ignores, recent-file ranking, and F12 definition navigation while retaining the 5.2 index owner and 5.9 protected file opening.",
-  "sha256": "15ed9952764322cf6b1bd15b9ff5a4bdca0384fc307517127de56da15edaa14e",
-  "source_commit": "605bde774b5175b3d773dc359abfa43660bf8e2e"
+  "request_id": "52804ab5-7b02-4458-809d-4f8ccc074cdd",
+  "source_commit": "4f7360035dfb7b3038745897c0ea983127549e9e",
+  "notes": "Forge 6.6.0: adds Code Intelligence & Refactoring with bounded background Find References, file/project symbol outlines, and preview-first transactional Rename Symbol using identifier boundaries, file fingerprints, backups, stale-preview rejection, and rollback while retaining the 6.5 index owner and 5.9 protected file opening.",
+  "version": "6.6.0",
+  "sha256": "a5d6b7040cc63a91b3405f931c31e314f71256f25a3f73a35fb3e51619f06bba",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.6.0/Forge-6.6.0.zip"
 }
