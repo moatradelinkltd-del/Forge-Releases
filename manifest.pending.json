@@ -1,18 +1,18 @@
 {
-  "version": "6.12.0",
-  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.12.0/Forge-6.12.0.zip",
-  "sha256": "df4a5b9fbd29fdc9a3369cb6ec54cca7afe7b48380d9a274a733db6cdefdc532",
-  "notes": "Forge 6.12.0: adds Source Control Center with bounded status/history/diffs, whole-file and hunk staging, commits, validated branch workflows, guarded discard, and protected file navigation while preserving Terminal 2, Windows Updater 3, and signed Linux amd64/arm64 updates.",
+  "version": "6.13.0",
+  "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.13.0/Forge-6.13.0.zip",
+  "sha256": "d14edb54780a39e5846ff19eec873b0952a06ad22b369af3393f8381d65c4a0d",
+  "notes": "Forge 6.13.0: adds Source Control Center with bounded status/history/diffs, whole-file and hunk staging, commits, validated branch workflows, guarded discard, and protected file navigation while preserving Terminal 2, Windows Updater 3, and signed Linux amd64/arm64 updates.",
   "linux_packages": {
     "amd64": {
-      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.12.0/Forge-6.12.0-linux-amd64.deb",
-      "sha256": "3d9d6ad633241f8b904f08e8c0265262097402b1c86ecb0e202864be3cdba79e"
+      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.13.0/Forge-6.13.0-linux-amd64.deb",
+      "sha256": "77459dfcee80e1ce9a9e2fb35ef53bd7a5aa62238c98b70a2623f861fde52a73"
     },
     "arm64": {
-      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.12.0/Forge-6.12.0-linux-arm64.deb",
-      "sha256": "c12fc944f59d44cb475ca4bc795414029b17acf1945132d6381c8b4628008b47"
+      "download_url": "https://github.com/moatradelinkltd-del/Forge-Releases/releases/download/v6.13.0/Forge-6.13.0-linux-arm64.deb",
+      "sha256": "ef36111eb85ab8b42c4701faa703e096d5075ec713d1c8a5ef8754ef874bb1de"
     }
   },
-  "request_id": "f5fd11a4-b207-4775-b5b3-73ffda7dd9ee",
-  "source_commit": "81c1b137452e5efbd7d572cdc59e05eb91488f3a"
+  "request_id": "369a29cf-a578-48ff-acd4-0c1b82444e4f",
+  "source_commit": "265694a9a9dbd8d3dc0bb82f3fb8e1c1a2c1051f"
 }
